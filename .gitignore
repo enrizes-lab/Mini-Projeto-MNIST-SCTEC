@@ -1,0 +1,5 @@
+__pycache__/
+.DS_Store
+models_saved/*.pkl
+*.npz
+notebooks/gerador_relatorio.py
